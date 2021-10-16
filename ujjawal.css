@@ -1,0 +1,72 @@
+ h1{
+   color: #66BFBF;
+   font-weight:bold;
+   font-family:'Sacramento', cursive;
+   font-size: 5rem;
+ }
+
+h3{
+  color: #66BFBF;
+  font-size:2rem;
+  font-family:'Montserrat', sans-serif;
+  padding-bottom:10px;
+}
+h4{
+  padding-top:50px;
+  padding-bottom:5px;
+  color:#66BFBF;
+}
+
+.bottom-container{
+  padding:40px;
+  background-color:#E4F9F6;
+  text-align:center;
+}
+
+.contact{
+  line-height: 1.8;
+}
+.middle-container{
+  padding:30px;
+  font-family:'Merriweather', serif;
+  text-align:center;
+  line-height:1.8;
+}
+body{
+margin:0;
+}
+
+
+.cloud1{
+  padding-top:30px;
+  position:relative; left:35%;
+}
+
+
+.about{
+  padding-bottom: 30px;
+}
+  .skillsPara{
+    float:left;
+    padding-top:30px;
+    padding-left:250px;
+    padding-bottom: 30px;
+  }
+
+.cloud2{
+  padding-top:5px;
+  position:relative; left:10%;
+  display:block;
+}
+
+.skillsPara{
+  line-height: 1.8;
+}
+
+.top-container{
+  padding: 30px 0 30px 0;
+  background-color:#E4F9F6;
+  position:relative;
+  text-align:center;
+  margin:0;
+}
